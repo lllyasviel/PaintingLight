@@ -1,2 +1,2 @@
 # PaintingLight
-Generating Digital Painting Lighting Effects via RGB-space Geometry (SIGGRAPH2020/TOG2020)
+We are uploading files to this repo. Please wait till 2020.01.20.
