@@ -227,10 +227,16 @@ You may directly play with our interactive examples!
 ![044](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/044.gif)  | * Example 044 <br> * Not need a mask <br> * Input image "044.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example044.py <br> --- <br>  <br> <br> Image has copyrights.
 ---- | :-----
 
-# Example with Mask
+# Playing with Examples with Masks
 
 ![045](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.gif)  | <img src="https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.mask.png" width="256" hegiht="256" align=center />  | * Example 045 <br> * Need a mask <br> * Input image "045.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example045.py <br> --- <br>  <br> <br> Image has copyrights.
 ---- | :----- | :-----
+
+# Playing with Your Own Images
+
+Just try:
+
+    python default.py your_image.png
 
 # FAQ
 
