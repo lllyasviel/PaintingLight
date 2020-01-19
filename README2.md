@@ -20,9 +20,8 @@ Installation.
 
 # Playing with Samples
 
-| 123 | 234 | 345 |
-
-![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/page_imgs/001.gif)
+![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/page_imgs/001.gif)  | * Example 001: Emilia <br> * Not need a mask <br> * Input image "001.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> >> python example001.py
+---- | :-----
 
 # FAQ
 
