@@ -23,6 +23,10 @@ The image noise in this webpage is caused by GIF compression. These artifacts do
 ![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/001.gif)  | * Example 001: Emilia <br> * Not need a mask <br> * Input image "001.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example001.py <br> --- <br>  <br> <br> Image have copyrights.
 ---- | :-----
 
+# Examples using Masks
+
+Examples using Masks
+
 # FAQ
 
 Q: Why?
