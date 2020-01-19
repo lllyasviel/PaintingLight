@@ -1,2 +1,3 @@
 # PaintingLight
-01.18: OK. We are uploading files to this repo. Please wait till 2020.01.20.
+This repo is under construction. Please wait till 2020.01.19.
+Team of Style2Paints
