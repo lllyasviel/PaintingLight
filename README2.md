@@ -203,8 +203,8 @@ You may directly play with our interactive examples!
 
 # Example with Mask
 
-![045](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.gif)  | * Example 045 <br> * Need a mask <br> * Input image "045.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example045.py <br> --- <br>  <br> <br> Image have copyrights.
----- | :-----
+![045](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.gif)  | <img src="https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.mask.png" width="256" hegiht="256" align=center />  | * Example 045 <br> * Need a mask <br> * Input image "045.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example045.py <br> --- <br>  <br> <br> Image have copyrights.
+---- | :----- | :-----
 
 # FAQ
 
