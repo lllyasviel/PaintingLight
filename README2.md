@@ -32,10 +32,13 @@ To install some environment:
 To install some super accurate environment:
 
     pip instal tensorflow==1.4.0
-    pip instal numba==0.39.0
     pip install scipy==1.1.0
     pip install trimesh==2.37.1
-    pip install rtree==0.8.3
+
+Then install the rtree package. The original rtree does not support windows, nevertheless here I provide a windows binary so that you can directly install it.
+
+    (linux only) pip install rtree==0.9.3
+    (windows only) pip install Rtree-0.9.3-cp36-cp36m-win_amd64.whl
 
 To install pyembree to enable GPU ray tracing:
 
