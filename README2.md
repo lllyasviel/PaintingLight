@@ -201,9 +201,10 @@ You may directly play with our interactive examples!
 ![044](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/044.gif)  | * Example 044 <br> * Not need a mask <br> * Input image "044.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example044.py <br> --- <br>  <br> <br> Image have copyrights.
 ---- | :-----
 
-# Examples with Masks
+# Example with Mask
 
-Examples using Masks
+![045](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/045.gif)  | * Example 045 <br> * Need a mask <br> * Input image "045.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example045.py <br> --- <br>  <br> <br> Image have copyrights.
+---- | :-----
 
 # FAQ
 
