@@ -244,7 +244,8 @@ Just try:
 
 It is also possible to edit parameters in *default.py*. See codes for detals.
 
-# FAQ
+# FAQs
+
     Q: It is mentioned that this project does not using 
        deep learning, then why it is still required to install tensorflow?
     
@@ -301,6 +302,15 @@ It is also possible to edit parameters in *default.py*. See codes for detals.
 
     A: If you really need you may manually annotate a mask and use the masked mode. 
        You may see also the code for the “Playing with Examples with Masks” examples.
+       
+# Citation
+
+    @article{Zhang2020,
+       author = "Lvmin Zhang and Edgar Simo-Serra and Yi Ji and Chunping Liu",
+       title = "Generating Digital Painting Lighting Effects via RGB-space Geometry",
+       journal = "ACM Transactions on Graphics",
+       year = "2020"
+    }
 
 # 中文社区
 
