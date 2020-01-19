@@ -1,7 +1,3 @@
-# Author Notes
-
-Note that this repo is currently under construction and we are actively uploading many files. Please wait till 2020.01.20 before an official release.
-
 # Project PaintingLight
 
 PaintingLight is a project conducted by the Style2Paints team, aimed at finding a method to manipulate the illumination in digital paintings. The project started at about 2019 January, and the core algorithm is accepted by ACM Transitions on Graphics at 2020. 
