@@ -245,9 +245,46 @@ Just try:
 It is also possible to edit parameters in *default.py*. See codes for detals.
 
 # FAQ
+    Q: It is mentioned that this project does not using 
+    deep learning, then why it is still required to install tensorflow?
+    
+    A: This is because we use SRCNN, a tensorflow neural network, to 
+    pre-process input images in order to remove JPEG artifacts. Therefore 
+    you still need to install tensorflow with a proper version.
+<br>
 
-    Q: It is mentioned that this project does not using deep learning, then why it is still required to install tensorflow?
-    A: This is because we use SRCNN, a tensorflow neural network, to pre-process input images in order to remove JPEG artifacts. Therefore you still need to install tensorflow with a proper version.
+    Q: I am trying with my own images. Can you explain 
+    the parameters so that I can get better results?
+    
+    A: Here we list all possible parameters:
+    
+    image:                               the input image.
+    
+    mask:                                a paired mask. you can set it to None as it is optional.
+    
+    ambient_intensity:                   the environment ambient light intensity. 0.45 recommended.
+    
+    light_intensity:                     the intensity of your light. 0.85 recommended.
+    
+    light_source_height:                 the height of your light source. It is the distance 
+                                         from the image to your light source. 1.0 recommended.
+                                
+    gamma_correction:                    the gamma correction parameter. It is a common parameter in 
+                                         many digital cameras or smartphone cameras, and we provide 
+                                         it if necessary. 1.0 recommended.
+                                
+    stroke_density_clipping:             a scalar to clip the stroke density. Bigger number results 
+                                         in sharper results. 1.2 recommended.
+                                
+    enabling_multiple_channel_effects:   whether to generate multiple-channel lighting 
+                                         effects. True recommended.
+                                         
+    light_color_red:                     color of your light. 1.0 recommended.
+    
+    light_color_green:                   color of your light. 1.0 recommended.
+    
+    light_color_blue:                    color of your light. 1.0 recommended.
+
 
 # 中文社区
 
