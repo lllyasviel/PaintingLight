@@ -246,8 +246,8 @@ It is also possible to edit parameters in *default.py*. See codes for detals.
 
 # FAQ
 
-    Q: Why?
-    A: Because.
+    Q: It is mentioned that this project does not using deep learning, then why it is still required to install tensorflow?
+    A: This is because we use SRCNN, a tensorflow neural network, to pre-process input images in order to remove JPEG artifacts. Therefore you still need to install tensorflow with a proper version.
 
 # 中文社区
 
