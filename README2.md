@@ -20,7 +20,9 @@ Installation.
 
 # Playing with Samples
 
-Playing with Samples.
+| 123 | 234 | 345 |
+
+![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/page_imgs/001.gif)
 
 # FAQ
 
