@@ -3,9 +3,9 @@ import cv2
 image = cv2.imread('./imgs/037.jpg')
 mask = None
 
-ambient_intensity = 0.4
-light_intensity = 1.2
-light_source_height = 0.618
+ambient_intensity = 0.55
+light_intensity = 0.8
+light_source_height = 1.0
 gamma_correction = 1.0
 stroke_density_clipping = 1.0
 enabling_multiple_channel_effects = True
