@@ -246,15 +246,15 @@ It is also possible to edit parameters in *default.py*. See codes for detals.
 
 # FAQ
     Q: It is mentioned that this project does not using 
-    deep learning, then why it is still required to install tensorflow?
+       deep learning, then why it is still required to install tensorflow?
     
     A: This is because we use SRCNN, a tensorflow neural network, to 
-    pre-process input images in order to remove JPEG artifacts. Therefore 
-    you still need to install tensorflow with a proper version.
+       pre-process input images in order to remove JPEG artifacts. Therefore 
+       you still need to install tensorflow with a proper version.
 <br>
 
     Q: I am trying with my own images. Can you explain 
-    the parameters so that I can get better results?
+       the parameters so that I can get better results?
     
     A: Here we list all possible parameters:
     
@@ -284,7 +284,23 @@ It is also possible to edit parameters in *default.py*. See codes for detals.
     light_color_green:                   color of your light. 1.0 recommended.
     
     light_color_blue:                    color of your light. 1.0 recommended.
+<br>
 
+    Q: I am currently trying with flat cell illustrations or line drawings, but 
+       the results are bad. Is this method not suitable to line drawings and flat 
+       cell illustrations?
+
+    A: This method not suitable to line drawings and flat cell illustrations. This 
+       is because the main technique of this algorithm is called stroke density. 
+       The algorithm fails if the input image do not contain such strokes or 
+       similar patterns.
+ <br>
+ 
+    Q: I have tried many parameters but I am still not very satisfied. 
+        What can I do to realize the full potential of this algorithm?
+
+    A: If you really need you may manually annotate a mask and use the masked mode. 
+       You may see also the code for the “Playing with Examples with Masks” examples.
 
 # 中文社区
 
