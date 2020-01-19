@@ -16,7 +16,16 @@ Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) 
 
 # Installation
 
+Installation.
+
+# Playing with Samples
+
+Playing with Samples.
+
 # FAQ
+
+Q: Why?
+A: Because.
 
 # 中文社区
 
