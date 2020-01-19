@@ -29,12 +29,13 @@ To install some environment:
     pip install opencv-python
     pip install opencv-contrib-python
 
-To install some very accurate environment:
+To install some super accurate environment:
 
     pip instal tensorflow==1.4.0
     pip instal numba==0.39.0
     pip install scipy==1.1.0
     pip install trimesh==2.37.1
+    pip install rtree==0.8.3
 
 To install pyembree to enable GPU ray tracing:
 
@@ -237,6 +238,8 @@ You may directly play with our interactive examples!
 Just try:
 
     python default.py your_image.png
+
+It is also possible to edit parameters in *default.py*. See codes for detals.
 
 # FAQ
 
