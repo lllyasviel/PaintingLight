@@ -8,7 +8,11 @@ Note that the project is still in its technical researching stage. If you are a 
 
 # Technical Paper
 
-Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) for our TOG/SIGGRAPH paper and videos. 
+Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) for our TOG/SIGGRAPH paper. 
+
+# Video and Animated Demos
+
+[![video_link](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/fake_video.png)](https://www.youtube.com/watch?v=X7li86oMBLA)
 
 # Installation
 
