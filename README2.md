@@ -12,7 +12,7 @@ Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) 
 
 # Video and Animated Demos
 
-[![video_link](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/fake_video.png)](https://www.youtube.com/watch?v=X7li86oMBLA)
+[![video_link](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/vid_icon.png)](https://www.youtube.com/watch?v=X7li86oMBLA)
 
 # Installation
 
