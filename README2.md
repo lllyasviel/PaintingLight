@@ -20,7 +20,7 @@ You may directly play with our interactive examples!
 
 The image noise in this webpage is caused by GIF compression. These artifacts do not exist when you try on your own.
 
-![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/001.gif)  | * Example 001: Emilia <br> * Not need a mask <br> * Input image "001.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> >> python example001.py <br> <br> <br> <br> <br> (Image have copyrights.)
+![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/001.gif)  | * Example 001: Emilia <br> * Not need a mask <br> * Input image "001.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> >> python example001.py <br> <br> <br> <br> <br> Image have copyrights.
 ---- | :-----
 
 # FAQ
