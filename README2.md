@@ -16,7 +16,33 @@ Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) 
 
 # Installation
 
-Installation.
+The codes have been tested for python 3.6 in both Windows 10 and Ubuntu 16.04.
+
+To download codes:
+
+    git clone https://github.com/lllyasviel/PaintingLight.git
+    cd PaintingLight
+    cd code
+
+To install some environment:
+
+    pip install opencv-python
+    pip install opencv-contrib-python
+
+To install some very accurate environment:
+
+    pip instal tensorflow==1.4.0
+    pip instal numba==0.39.0
+    pip install scipy==1.1.0
+    pip install trimesh==2.37.1
+
+To install pyembree to enable GPU ray tracing:
+
+(Optional, you can skip this step if you do not care about speed.) 
+
+[Linux Pyembree](https://github.com/scopatz/pyembree)
+
+[Windows Pyembree](https://github.com/scopatz/pyembree/issues/14)
 
 # Playing with Examples
 
