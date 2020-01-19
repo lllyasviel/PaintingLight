@@ -246,9 +246,8 @@ It is also possible to edit parameters in *default.py*. See codes for detals.
 
 # FAQ
 
-Q: Why?
-
-A: Because.
+    Q: Why?
+    A: Because.
 
 # 中文社区
 
