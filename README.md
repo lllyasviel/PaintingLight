@@ -37,7 +37,9 @@ To install some super accurate environment:
 
 Then install the rtree package. The original rtree does not support windows, nevertheless here I provide a windows binary so that you can directly install it.
 
+    (linux only) sudo apt install libspatialindex-dev
     (linux only) pip install rtree==0.9.3
+    
     (windows only) pip install Rtree-0.9.3-cp36-cp36m-win_amd64.whl
 
 To install pyembree to enable GPU ray tracing:
