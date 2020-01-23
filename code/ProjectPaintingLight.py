@@ -13,15 +13,21 @@ from scipy.spatial import ConvexHull
 from cv2.ximgproc import createGuidedFilter
 
 
-assert tf.__version__ == '1.4.0'
-assert scipy.__version__ == '1.1.0'
+assert tf.__version__ == '1.12.0'
+assert scipy.__version__ == '1.3.2'
 assert trimesh.__version__ == '2.37.1'
 assert rtree.__version__ == '0.9.3'
 
 
 # We use SR-CNN as pre-processing to remove JPEG artifacts in input images.
 # You can remove these code if you have high-quality PNG images.
-session = tf.Session()
+
+def get_session(gpu_fraction=0.3):
+    gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=gpu_fraction, allow_growth=True)
+    return tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
+
+
+session = get_session()
 tf.keras.backend.set_session(session)
 ip3 = tf.placeholder(dtype=tf.float32, shape=(None, None, None, 3))
 srcnn = tf.keras.models.load_model('srcnn.net')

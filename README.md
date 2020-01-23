@@ -35,7 +35,11 @@ To install some super accurate environment:
     pip install scipy==1.1.0
     pip install trimesh==2.37.1
 
-Then install the rtree package. The original rtree does not support windows, nevertheless here I provide a windows binary so that you can directly install it.
+install rtree dependency 
+
+    sudo apt install libspatialindex-dev
+
+Then install the rtree package. The original rtree does not support windows, nevertheless here I provide a windows binary so that you can directly install it. 
 
     (linux only) pip install rtree==0.9.3
     (windows only) pip install Rtree-0.9.3-cp36-cp36m-win_amd64.whl
