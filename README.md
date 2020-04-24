@@ -16,7 +16,7 @@ Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) 
 
 # Installation
 
-The codes have been tested for python 3.6 in both Windows 10 and Ubuntu 16.04.
+The codes have been tested for python 3.6 in both Windows 10 and Ubuntu 16.04. (If you use windows then python 3.6 is a must.)
 
 To download codes:
 
@@ -28,6 +28,7 @@ To install some environment:
 
     pip install opencv-python
     pip install opencv-contrib-python
+    pip install h5py
 
 To install some super accurate environment:
 
@@ -245,6 +246,8 @@ Just try:
     python default.py your_image.png
 
 It is also possible to edit parameters in *default.py*. See codes for detals.
+
+Note that big images may cause a out-of-memory error. See [Here](https://github.com/lllyasviel/PaintingLight/issues/2). Please resize your images to about 512px before processing.
 
 # FAQs
 
