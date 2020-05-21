@@ -32,7 +32,7 @@ To install some environment:
 
 To install some super accurate environment:
 
-    pip instal tensorflow==1.4.0
+    pip install tensorflow==1.4.0
     pip install scipy==1.1.0
     pip install trimesh==2.37.1
 
