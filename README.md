@@ -10,9 +10,13 @@ Note that the project is still in its technical researching stage. If you are a 
 
 Please refer to our [project page](https://lllyasviel.github.io/PaintingLight/) for our TOG/SIGGRAPH paper. 
 
+(c) artwork traced by ToS2P from an artwork by David Revoy under CC-BY license, www.peppercarrot.com
+
 # Video and Animated Demos
 
 [![video_link](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/vid_icon.png)](https://www.youtube.com/watch?v=X7li86oMBLA)
+
+(c) artwork traced by ToS2P from an artwork by David Revoy under CC-BY license, www.peppercarrot.com
 
 # Installation
 
