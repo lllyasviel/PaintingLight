@@ -1,6 +1,5 @@
 # Project PaintingLight V 0.1
 # Team of Style2Paints 2020
-# Non-commercial usage only
 
 
 import cv2
