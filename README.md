@@ -314,11 +314,13 @@ Note that big images may cause a out-of-memory error. See [Here](https://github.
        
 # Citation
 
-    @article{Zhang2020,
-       author = "Lvmin Zhang and Edgar Simo-Serra and Yi Ji and Chunping Liu",
-       title = "Generating Digital Painting Lighting Effects via RGB-space Geometry",
-       journal = "ACM Transactions on Graphics",
-       year = "2020"
+    @Article{ZhangTOG2020,
+       author    = {Lvmin Zhang and Edgar Simo-Serra and Yi Ji and Chunping Liu},
+       title     = {{Generating Digital Painting Lighting Effects via RGB-space Geometry}},
+       journal   = "Transactions on Graphics (Presented at SIGGRAPH)",
+       year      = 2020,
+       volume    = 39,
+       number    = 2,
     }
 
 # 中文社区
