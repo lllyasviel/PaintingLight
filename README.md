@@ -63,9 +63,6 @@ You may directly play with our interactive examples!
 
 **These artifacts do not exist when you try on your own.**
 
-![001](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/001.gif)  | * Example 001 <br> * Not need a mask <br> * Input image "001.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example001.py <br> --- <br>  <br> <br> Image has copyrights.
----- | :-----
-
 
 ![002](https://raw.githubusercontent.com/lllyasviel/PaintingLight/master/code/imgs/002.gif)  | * Example 002 <br> * Not need a mask <br> * Input image "002.jpg" <br>  <br>  <br>  <br> To try it: <br> <br> --- <br> >> python example002.py <br> --- <br>  <br> <br> Image has copyrights.
 ---- | :-----
