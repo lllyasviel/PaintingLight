@@ -324,5 +324,5 @@ Note that big images may cause a out-of-memory error. See [Here](https://github.
 
 我们有一个除了技术什么东西都聊的以技术交流为主的宇宙超一流二次元相关技术交流吹水群“纸片协会”。如果你一次加群失败，可以多次尝试。
 
-    纸片协会总舵：184467946
+    纸片协会总舵：599929904
 
